@@ -1,0 +1,14 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":6,
+    "params":{
+      "q":"(Background: melanoma^4 OR Doc_title: melanoma^4) AND (Background:(KIT^4 OR \"proto-oncogene receptor tyrosine kinase\" OR PBT OR scfr OR c-kit OR CD117 OR mast) AND (L576P^4 OR \"Leu576Pro\" OR \"replacement of leucine by proline\" OR \"proline mutat* to leucine\" OR \"1726T>C\"))"}},
+  "response":{"numFound":1,"start":0,"docs":[
+      {
+        "Meeting_name":" Selective activity of dasatinib for the most common KIT mutation in melanoma (L576P).",
+        "Background":"['Background', ' Point mutations in the KIT receptor tyrosine kinase gene have recently been identified in melanomas from mucosal, acral lentiginous (AL), and chronically sun-damaged (CSD) sites. An improved understanding of the molecular characteristics of melanoma-prevalent KIT mutations may lead to more effective therapeutic approaches. Methods', ' Human melanoma cell lines were screened by mass-spectroscopy based genotyping for KIT mutations, and a cell line with an endogenous L576P KIT mutation was identified. The cell line was treated in vitro with a panel of small molecule KIT inhibitors and the effects on cell viability were quantified. Molecular modeling of the interaction of the inhibitors with the KIT L576P mutant protein was determined to estimate binding affinity. PET/CT studies were performed on patients with mucosal melanoma harboring the L576P mutation pre- and post-dasatinib treatment. Results', ' We have identified the first human melanoma cell line with an endogenous L576P mutation, the most common KIT mutation in melanoma. In vitro testing demonstrated that this cell line is resistant to imatinib, nilotinib and sorafenib (0 - 1 uM), KIT inhibitors shown to be effective in non-melanoma cells with other KIT mutations. However, the mutant cell line was inhibited by dasatinib at concentrations as low as 10 nM, and was significantly more sensitive than melanoma cell lines with wild-type KIT (p = 0.02). No difference in sensitivity to Src inhibitors was observed, supporting that this sensitivity was due to KIT inhibition. Molecular modeling demonstrated that the L576P mutation induces structural changes in KIT that reduce the affinity for imatinib but not for dasatinib. Two metastatic melanoma patients with the L576P KIT mutation were treated with dasatinib, including one patient previously treated with imatinib. Both patients had marked reduction and elimination of tumor FDG- avidity by PET imaging after dasatinib treatment. Conclusions', ' This data supports that dasatinib has a selective inhibitory effect against the most common KIT mutation in melanoma and has implications for the development of AL, CSD, and mucosal melanoma treatment.']",
+        "Doc_id":"ASCO_31944-65",
+        "Doc_title":" Selective activity of dasatinib for the most common KIT mutation in melanoma (L576P).",
+        "_version_":1606188997020745728}]
+  }}
