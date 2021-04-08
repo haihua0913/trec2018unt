@@ -1,0 +1,17 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":23,
+    "params":{
+      "q":"(Doc_abstract: melanoma^4 OR Doc_title: melanoma^4) AND (Doc_abstract:(NRAS^4 OR NS6 OR CMNS OR NCMS OR ALPS4 OR N-ras OR NRAS1) AND (Q61L^4 OR \"Gln61Leu\" OR \"replacement of glutamine by leucine\" OR \"leucine mutat* to glutamine\" OR \"182_183delAAinsTG\") OR Doc_title:(NRAS^4 OR NS6 OR CMNS OR NCMS OR ALPS4 OR N-ras OR NRAS1) AND (Q61L^4 OR \"Gln61Leu\" OR \"replacement of glutamine by leucine\" OR \"leucine mutat* to glutamine\" OR \"182_183delAAinsTG\")) AND (Doc_abstract: \"treatment\" OR \"therapy\" OR \"Surgery\" OR \"Add on treatment\" OR \"Chemotherapy and immunotherapy\" OR \"Lentigo maligna\" OR \"Radiation therapy\")"}},
+  "response":{"numFound":1,"start":0,"docs":[
+      {
+        "Doc_abstract":"The determination of NRAS and BRAF mutation status is a major requirement in the treatment of patients with metastatic melanoma. Mutation specific antibodies against NRAS(Q61R) and BRAF(V600E) proteins could offer additional data on tumor heterogeneity. The specificity and sensitivity of NRAS(Q61R) immunohistochemistry have recently been reported excellent. We aimed to determine the utility of immunohistochemistry using SP174 anti-NRAS(Q61R) and VE1 anti-BRAF(V600E) antibodies in the theranostic mutation screening of melanomas.;142 formalin-fixed paraffin-embedded melanoma samples from 79 patients were analyzed using pyrosequencing and immunohistochemistry.;23 and 26 patients were concluded to have a NRAS-mutated or a BRAF-mutated melanoma respectively. The 23 NRAS (Q61R) and 23 BRAF (V600E) -mutant samples with pyrosequencing were all positive in immunohistochemistry with SP174 antibody and VE1 antibody respectively, without any false negative. Proportions and intensities of staining were varied. Other NRAS (Q61L) , NRAS (Q61K) , BRAF (V600K) and BRAF (V600R) mutants were negative in immunohistochemistry. 6 single cases were immunostained but identified as wild-type using pyrosequencing (1 with SP174 and 5 with VE1). 4/38 patients with multiple samples presented molecular discordant data. Technical limitations are discussed to explain those discrepancies. Anyway we could not rule out real tumor heterogeneity.;In our study, we showed that combining immunohistochemistry analysis targeting NRAS(Q61R) and BRAF(V600E) proteins with molecular analysis was a reliable theranostic tool to face challenging samples of melanoma.",
+        "Doc_title":"NRAS (Q61R), BRAF (V600E) immunohistochemistry: a concomitant tool for mutation screening in melanomas.",
+        "Journal":"Diagnostic pathology",
+        "Do_id":"26204954",
+        "Doc_ChemicalList":"Biomarkers, Tumor;Membrane Proteins;BRAF protein, human;Proto-Oncogene Proteins B-raf;GTP Phosphohydrolases;NRAS protein, human",
+        "Doc_meshdescriptors":"Adolescent;Adult;Aged;Aged, 80 and over;Biomarkers, Tumor;DNA Mutational Analysis;Female;GTP Phosphohydrolases;High-Throughput Nucleotide Sequencing;Humans;Immunohistochemistry;Male;Melanoma;Membrane Proteins;Middle Aged;Polymerase Chain Reaction;Proto-Oncogene Proteins B-raf;Young Adult",
+        "Doc_meshqualifiers":"genetics;methods;genetics;methods;methods;genetics;genetics;genetics",
+        "_version_":1605880353971503104}]
+  }}

@@ -1,0 +1,26 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":39,
+    "params":{
+      "q":"(Doc_abstract: melanoma^4 OR Doc_title: melanoma^4) AND (Doc_abstract:((KIT^4 OR \"proto-oncogene receptor tyrosine kinase\" OR PBT OR scfr OR c-kit OR CD117 OR mast) AND (\"K642E\"^4 OR \"Lys642Glu\" OR \"replacement of lysine by glutamic acid\" OR \"glutamic acid mutat* to lysine\" OR \"1922A>G\")) OR Doc_title:((KIT^4 OR \"proto-oncogene receptor tyrosine kinase\" OR PBT OR scfr OR c-kit OR CD117 OR mast) AND (\"K642E\"^4 OR \"Lys642Glu\" OR \"replacement of lysine by glutamic acid\" OR \"glutamic acid mutat* to lysine\" OR \"1922A>G\")))"}},
+  "response":{"numFound":2,"start":0,"docs":[
+      {
+        "Doc_abstract":"Recent studies showed KIT gene aberrations in a substantial number of melanomas on acral skin and mucosa, suggesting the therapeutic benefit of tyrosine kinase inhibitors, such as imatinib. We therefore examined the expression and mutations of KIT in 4 primary and 24 metastatic acral and mucosal melanomas. Immunohistochemistry revealed moderate or strong KIT protein expression in 13 (48%) tumors. Sequence analysis revealed K642E and D820Y mutations in two metastases. Amplification of KIT was identified by real-time PCR in 4 tumors, including one that had K642E. Western blot analysis showed phosphorylation of the KIT receptor in 8 (62%) of 13 cryopreserved samples, indicating the frequent pathological activation of the receptor in vivo. Phosphorylation of KIT protein was detected in 2 tumors harboring KIT mutations, as well as in one tumor with KIT gene amplification. Furthermore, 5 tumors without detectable KIT gene aberrations showed phosphorylation of the KIT receptor. Expression of stem cell factor (SCF) in melanoma cells as well as stromal cells suggests SCF/KIT autocrine and paracrine activation in these tumors. Finally, we found significant growth suppressive effects of sunitinib in two acral melanoma cell lines; one harboring the D820Y mutation and one showing SCF-dependent KIT activation. These results show pathological activation of KIT in a substantial number of metastatic tumors of acral and mucosal melanomas, and suggest a potential therapeutic benefit of sunitinib for these melanomas.",
+        "Doc_title":"Pathological activation of KIT in metastatic tumors of acral and mucosal melanomas.",
+        "Journal":"International journal of cancer",
+        "Do_id":"19035443",
+        "Doc_ChemicalList":"Antineoplastic Agents;Indoles;Pyrroles;Stem Cell Factor;Proto-Oncogene Proteins c-kit;sunitinib",
+        "Doc_meshdescriptors":"Adult;Aged;Aged, 80 and over;Antineoplastic Agents;Female;Humans;Indoles;Male;Melanoma;Middle Aged;Mucous Membrane;Mutation;Neoplasm Metastasis;Phosphorylation;Proto-Oncogene Proteins c-kit;Pyrroles;Skin Neoplasms;Stem Cell Factor",
+        "Doc_meshqualifiers":"pharmacology;pharmacology;genetics;metabolism;pathology;pathology;metabolism;pharmacology;genetics;metabolism;pathology;metabolism",
+        "_version_":1605742771045400577},
+      {
+        "Doc_abstract":"None",
+        "Doc_title":"Dose-dependent, complete response to imatinib of a metastatic mucosal melanoma with a K642E KIT mutation.",
+        "Journal":"Pigment cell & melanoma research",
+        "Do_id":"18510589",
+        "Doc_ChemicalList":"Benzamides;Piperazines;Pyrimidines;Glutamic Acid;Imatinib Mesylate;Proto-Oncogene Proteins c-kit;Lysine",
+        "Doc_meshdescriptors":"Aged;Amino Acid Substitution;Anus Neoplasms;Benzamides;Dose-Response Relationship, Drug;Female;Glutamic Acid;Humans;Imatinib Mesylate;Intestinal Mucosa;Lysine;Melanoma;Neoplasm Metastasis;Piperazines;Point Mutation;Proto-Oncogene Proteins c-kit;Pyrimidines;Remission Induction",
+        "Doc_meshqualifiers":"genetics;drug therapy;genetics;pathology;genetics;drug effects;pathology;genetics;drug therapy;genetics;pathology;administration & dosage;therapeutic use;physiology;genetics;administration & dosage;therapeutic use",
+        "_version_":1605831689943121920}]
+  }}
