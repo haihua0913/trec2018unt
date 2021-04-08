@@ -1,0 +1,44 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"(Doc_abstract: melanoma^4 OR Doc_title: melanoma^4) AND (Doc_abstract:(BRAF^4 OR NS7 OR B-raf OR BRAF1 OR RAFB1 OR B-RAF1) AND (K601E^4 OR \"Val600Glu\" OR \"replacement of lysine by glutamic acid\" OR \"glutamic acid mutat* to lysine\" OR \"1801A>G\") OR Doc_title:(BRAF^4 OR NS7 OR B-raf OR BRAF1 OR RAFB1 OR B-RAF1) AND (K601E^4 OR \"Val600Glu\" OR \"replacement of lysine by glutamic acid\" OR \"glutamic acid mutat* to lysine\" OR \"1801A>G\"))"}},
+  "response":{"numFound":4,"start":0,"docs":[
+      {
+        "Doc_abstract":"BRAF mutations promote melanoma cell proliferation and survival primarily through activation of MEK. The purpose of this study was to determine the response rate (RR) for the selective, allosteric MEK1/MEK2 inhibitor trametinib (GSK1120212), in patients with metastatic BRAF-mutant melanoma.;This was an open-label, two-stage, phase II study with two cohorts. Patients with metastatic BRAF-mutant melanoma previously treated with a BRAF inhibitor (cohort A) or treated with chemotherapy and/or immunotherapy (BRAF-inhibitor naive; cohort B) were enrolled. Patients received 2 mg of trametinib orally once daily.;In cohort A (n = 40), there were no confirmed objective responses and 11 patients (28%) with stable disease (SD); the median progression-free survival (PFS) was 1.8 months. In cohort B (n = 57), there was one (2%) complete response, 13 (23%) partial responses (PRs), and 29 patients (51%) with SD (confirmed RR, 25%); the median PFS was 4.0 months. One patient each with BRAF K601E and BRAF V600R had prolonged PR. The most frequent treatment-related adverse events for all patients were skin-related toxicity, nausea, peripheral edema, diarrhea, pruritis, and fatigue. No cutaneous squamous cell carcinoma was observed.;Trametinib was well tolerated. Significant clinical activity was observed in BRAF-inhibitor-naive patients previously treated with chemotherapy and/or immunotherapy. Minimal clinical activity was observed as sequential therapy in patients previously treated with a BRAF inhibitor. Together, these data suggest that BRAF-inhibitor resistance mechanisms likely confer resistance to MEK-inhibitor monotherapy. These data support further evaluation of trametinib in BRAF-inhibitor-naive BRAF-mutant melanoma, including rarer forms of BRAF-mutant melanoma.",
+        "Doc_title":"Phase II study of the MEK1/MEK2 inhibitor Trametinib in patients with metastatic BRAF-mutant cutaneous melanoma previously treated with or without a BRAF inhibitor.",
+        "Journal":"Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "Do_id":"23248257",
+        "Doc_ChemicalList":"Antineoplastic Agents;Pyridones;Pyrimidinones;trametinib;BRAF protein, human;Proto-Oncogene Proteins B-raf;MAP Kinase Kinase 1;MAP Kinase Kinase 2",
+        "Doc_meshdescriptors":"Adult;Aged;Antineoplastic Agents;Disease-Free Survival;Female;Humans;Kaplan-Meier Estimate;MAP Kinase Kinase 1;MAP Kinase Kinase 2;Male;Melanoma;Middle Aged;Mutation;Neoplasm Staging;Proto-Oncogene Proteins B-raf;Pyridones;Pyrimidinones;Skin Neoplasms;Treatment Outcome",
+        "Doc_meshqualifiers":"administration & dosage;adverse effects;blood;therapeutic use;antagonists & inhibitors;antagonists & inhibitors;blood;drug therapy;genetics;pathology;drug effects;genetics;administration & dosage;adverse effects;blood;therapeutic use;administration & dosage;adverse effects;blood;therapeutic use;blood;drug therapy;genetics;pathology",
+        "_version_":1605844961889091584},
+      {
+        "Doc_abstract":"In this issue of Cancer Cell, Arozarena et al. describe that the oncogenic BRAF Val600Glu mutant, which occurs in about half of melanomas, downregulates the cGMP-hydrolysing phosphodiesterase PDE5A in melanoma cells through the ERK-MAPK cascade coupled to the POU-domain transcription factor BRN2, thereby increasing intracellular cGMP levels and promoting invasiveness.",
+        "Doc_title":"Hard times for oncogenic BRAF-expressing melanoma cells.",
+        "Journal":"Cancer cell",
+        "Do_id":"21251608",
+        "Doc_ChemicalList":"None",
+        "Doc_meshdescriptors":"None",
+        "Doc_meshqualifiers":"None",
+        "_version_":1605839839611060224},
+      {
+        "Doc_abstract":"The protein kinase B-Raf proto-oncogene, serine/threonine kinase (BRAF) is an oncogenic driver and therapeutic target in melanoma. Inhibitors of BRAF (BRAFi) have shown high response rates and extended survival in patients with melanoma who bear tumors that express mutations encoding BRAF proteins mutant at Val600, but a vast majority of these patients develop drug resistance. Here we show that loss of stromal antigen 2 (STAG2) or STAG3, which encode subunits of the cohesin complex, in melanoma cells results in resistance to BRAFi. We identified loss-of-function mutations in STAG2, as well as decreased expression of STAG2 or STAG3 proteins in several tumor samples from patients with acquired resistance to BRAFi and in BRAFi-resistant melanoma cell lines. Knockdown of STAG2 or STAG3 expression decreased sensitivity of BRAF(Val600Glu)-mutant melanoma cells and xenograft tumors to BRAFi. Loss of STAG2 inhibited CCCTC-binding-factor-mediated expression of dual specificity phosphatase 6 (DUSP6), leading to reactivation of mitogen-activated protein kinase (MAPK) signaling (via the MAPKs ERK1 and ERK2; hereafter referred to as ERK). Our studies unveil a previously unknown genetic mechanism of BRAFi resistance and provide new insights into the tumor suppressor function of STAG2 and STAG3. ",
+        "Doc_title":"Loss of cohesin complex components STAG2 or STAG3 confers resistance to BRAF inhibition in melanoma.",
+        "Journal":"Nature medicine",
+        "Do_id":"27500726",
+        "Doc_ChemicalList":"None",
+        "Doc_meshdescriptors":"None",
+        "Doc_meshqualifiers":"None",
+        "_version_":1605784539941044224},
+      {
+        "Doc_abstract":"Inhibitors targeting active protein kinases, such as EGFR or ALK, have demonstrated significant efficacy in the treatment of lung cancer. Activating mutations in the MAPK pathway, which includes the enzymes RAS, RAF, MEK, and ERK, result in constitutive signalling, leading to oncogenic cell proliferation and escape from apoptosis; therefore this pathway is a focus of crucial interest for the development of cancer drugs. In melanoma, the most commonly mutated gene is BRAF, with mutations usually occurring in about 50% of all tumours. The BRAF Val600Glu (V600E) mutation constitutes more than 90% of mutations in melanoma. V600E BRAF mutation shows a great dependency on MEK activity, and offers a rational therapeutic strategy for this genetically defined tumour subtype. The use of vemurafenib and dabrafenib, agents that block MAPK signaling in patients with melanoma and the BRAF V600E mutation, has been associated with prolonged survival and progression-free survival. The frequency of V600E BRAF mutation in lung adenocarcinoma is 1.5% to 2.8%. Treatment of V600E BRAF-mutant lung adenocarcinomas with dabrafenib is under evaluation in a phase 2 trial, and could represent another milestone in individualized therapy for lung cancer patients. The next step will be a combination therapy of BRAF inhibitor dabrafenib and MEK inhibitor trametinib. ",
+        "Doc_title":"BRAF mutant non-small cell lung cancer and treatment with BRAF inhibitors.",
+        "Journal":"Translational lung cancer research",
+        "Do_id":"25806238",
+        "Doc_ChemicalList":"None",
+        "Doc_meshdescriptors":"None",
+        "Doc_meshqualifiers":"None",
+        "_version_":1605806756269654016}]
+  }}
