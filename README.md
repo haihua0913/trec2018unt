@@ -4,4 +4,4 @@ This repository include the code, training data, query construction, information
 
 The original data can be downloaded from TREC official website. 
 
-If you have any questions, please contact haihua.chen@unt.edu
+If you have any questions, please contact at haihua.chen@unt.edu
